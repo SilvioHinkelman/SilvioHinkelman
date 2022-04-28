@@ -26,4 +26,4 @@
   <img src="he" alt="">
   <img src="he" alt="">
   </div>
-<p>Confira o <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
+<a href="https://www.google.com" target="_blank">Ir para o Google em nova página</a>
