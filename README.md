@@ -2,7 +2,9 @@
 
 ### 🔭  Procurando emprego como front-end
 <p dir="auto">
-  <a href="https://www.linkedin.com/in/silviodesenvolvedorfrontend/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Blog" data-canonical-src="https://img.shields.io/website?label=SujeitoProgramador.com&amp;style=for-the-badge&amp;url=https://sujeitoprogramador.com/" style="max-width: 100%;"></a>
+  <a href="https://www.linkedin.com/in/silviodesenvolvedorfrontend/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Blog" style="max-width: 100%;"></a>
+  <a href="https://www.facebook.com/silvio.hinkelman" rel="nofollow"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Blog" style="max-width: 100%;"></a>
+  <a href="https://www.instagram.com/silviohinkelman/" rel="nofollow"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Blog" style="max-width: 100%;"></a>
 </p>
 
 ![Silvio Hinkelman GitHub stats](https://github-readme-stats.vercel.app/api?username=SilvioHinkelman&show_icons=true&theme=dark)
