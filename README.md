@@ -1,6 +1,6 @@
 ## 👋 Me chamo Silvio da Costa Hinkelman
 Formado em análise e desenvolvimento de sistemas pela FADERGS
-## 🔭  Procurando emprego como front-end
+
 ### 📞 Contato e redes sociais
 <div dir="auto">
   <a href="https://www.linkedin.com/in/silviodesenvolvedorfrontend/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Blog" style="max-width: 100%;"></a>
