@@ -17,7 +17,7 @@ Formado em análise e desenvolvimento de sistemas pela FADERGS
 <div dir="auto">
   <img height="75" width="60" alt="" src="https://logospng.org/wp-content/uploads/typescript.png">
   <img height="75" width="85" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png">
-  <img height="60" width="60" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png">
+  <img height="60" width="60" alt="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img height="70" width="80" alt="" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png)">
   <img height="60" width="60" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
   <img height="70" width="70" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
