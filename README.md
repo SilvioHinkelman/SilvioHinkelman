@@ -15,13 +15,11 @@ Formado em análise e desenvolvimento de sistemas pela FADERGS
 ### Tecnologias mais utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioHinkelman&layout=compact&theme=dark)](https://github.com/SilvioHinkelman/github-readme-stats)
 <div dir="auto">
-  <img height="75" width="60" alt="" src="https://logospng.org/wp-content/uploads/typescript.png">
   <img height="75" width="85" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png">
   <img height="60" width="60" alt="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img height="60" width="60" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png">
   <img height="60" width="60" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
   <img height="70" width="70" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
-    <img height="60" width="60" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
   <img height="60" width="60" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
    <img height="60" width="60" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png">
    <img height="60" width="100" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
