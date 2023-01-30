@@ -22,7 +22,7 @@ Formado em análise e desenvolvimento de sistemas pela FADERGS
    <img height="60" width="60" alt="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img height="60" width="60" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png">
   
-  <img height="60" width="60" alt="" src="https://cdn-icons-png.flaticon.com/512/919/919826.png">
+  <img height="60" width="60" alt="" src="https://play-lh.googleusercontent.com/RTAZb9E639F4JBcuBRTPEk9_92I-kaKgBMw4LFxTGhdCQeqWukXh74rTngbQpBVGxqo">
   
    <img height="60" width="70" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png">
   <img height="60" width="60" alt="" src="https://www.styled-components.com/atom.png">
