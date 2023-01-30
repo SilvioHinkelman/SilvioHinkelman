@@ -16,10 +16,14 @@ Formado em análise e desenvolvimento de sistemas pela FADERGS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioHinkelman&layout=compact&theme=dark)](https://github.com/SilvioHinkelman/github-readme-stats)
 <div dir="auto">
   <img height="75" width="85" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png">
-  <img height="60" width="60" alt="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img height="60" width="60" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png">
+ 
   <img height="70" width="70" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
   <img height="60" width="60" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+   <img height="60" width="60" alt="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img height="60" width="60" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png">
+  
+  <img height="60" width="60" alt="" src="https://cdn-icons-png.flaticon.com/512/919/919826.png">
+  
    <img height="60" width="70" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png">
   <img height="60" width="60" alt="" src="https://www.styled-components.com/atom.png">
   <img height="60" width="60" alt="" src="https://avatars.githubusercontent.com/u/79146003?s=280&v=4">  
