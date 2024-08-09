@@ -15,15 +15,10 @@ Formado em análise e desenvolvimento de sistemas pela FADERGS
 ### Tecnologias mais utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioHinkelman&layout=compact&theme=dark)](https://github.com/SilvioHinkelman/github-readme-stats)
 <div dir="auto">
-  <img height="60" width="70" alt="" src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667">
- 
-  <img height="70" width="70" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
   <img height="60" width="60" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+  <img height="70" width="70" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
    <img height="60" width="60" alt="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img height="60" width="60" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png">
-  
-  <img height="60" width="70" alt="" src="https://camo.githubusercontent.com/2e496d4bfc6f753ddca87b521ce95c88219f77800212ffa6d4401ad368c82170/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667">
-  
    <img height="60" width="70" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png">
   <img height="60" width="60" alt="" src="https://www.styled-components.com/atom.png">
   <img height="60" width="60" alt="" src="https://avatars.githubusercontent.com/u/79146003?s=280&v=4">  
