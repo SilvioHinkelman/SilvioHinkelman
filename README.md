@@ -24,4 +24,5 @@ Formado em análise e desenvolvimento de sistemas pela FADERGS
   <img height="60" width="60" alt="" src="https://avatars.githubusercontent.com/u/79146003?s=280&v=4">  
     <img height="60" width="60" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
    <img height="60" width="100" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
+   <img height="60" width="100" alt="" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png](https://www.google.com/imgres?q=app%20expo%20dev&imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Fexpo%2Fexpo%2Fmain%2F.github%2Fresources%2Fbanner.png&imgrefurl=https%3A%2F%2Fbestofjs.org%2Fprojects%2Fexpo&docid=T3rxFa_tV4VHBM&tbnid=necESI0JhzaSkM&vet=12ahUKEwjsroW23OiHAxWDrJUCHUVCKTIQM3oECHsQAA..i&w=720&h=660&hcb=2&ved=2ahUKEwjsroW23OiHAxWDrJUCHUVCKTIQM3oECHsQAA)">
   </div>
