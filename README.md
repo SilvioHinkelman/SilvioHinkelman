@@ -23,7 +23,5 @@ Formado em análise e desenvolvimento de sistemas pela FADERGS
   <img height="60" width="60" alt="" src="https://www.styled-components.com/atom.png">
   <img height="60" width="60" alt="" src="https://avatars.githubusercontent.com/u/79146003?s=280&v=4">  
     <img height="60" width="60" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
-  
- <img height="60" width="100" alt="" src="https://camo.githubusercontent.com/cdd289ae72f33665800bc6a63936d5afa0454214d520945780894151112a055f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667">
    <img height="60" width="100" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
   </div>
